@@ -3,10 +3,11 @@
 This project shows different exploratory graphs in a data set from 
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>. The repo was forked from instructor's github at 
-<a href="https://github.com/rdpeng/ExData_Plotting1">.
+<a href="https://github.com/rdpeng/ExData_Plotting1"></a>.
 
 This link allows to download the original dataset (although .zip file is included
 in this repo):
+
 * <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
 * <b>Description</b>: Measurements of electric power consumption in
