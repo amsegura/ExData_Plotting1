@@ -5,16 +5,16 @@ the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>. The repo was forked from instructor's github at 
 <a href="https://github.com/rdpeng/ExData_Plotting1"></a>.
 
-In thi repo you can find:
+In this repo you can find:
 
-* <b>Dataset</b>: It is included as a .zip file or you can downloaded from this link
+* <b>Dataset</b>: It is included as a zip file or you can downloaded from this link
 <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
 * An R.script for obtaining the data set called "ExData_Plotting1_gettingdata"
 
 * 4 scripts to prepare the exploratory images and 4 png files with the images.
 
-#### Data set description 
+### Data set description 
 
 Measurements of electric power consumption in one household with a one-minute 
 sampling rate over a period of almost 4 years. Different electrical quantities 
